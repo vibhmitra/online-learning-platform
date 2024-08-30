@@ -1,6 +1,6 @@
 # Online Learning Platform
 It is an online platform that connects tutors and learners. Discover a vast array of courses on various subjects, from programming to personal development. Share your knowledge by creating and sharing your own courses. Learn at your own pace and connect with a global community of learners.
-
+It is an online learning platform that enables tutors to create and share courses, and learners to learn at their own pace. It is built on top of Spring Boot framework (a Java FW) that utilize Spring MVC for web interactions, Spring Data JPA for data persistence, and Spring Security for authentication. Frontend is Implemented using with Thymeleaf templating engine using HTML and CSS.
 ---
 ### Technology Used
 #### **Backend**
